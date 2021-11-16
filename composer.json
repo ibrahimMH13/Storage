@@ -1,0 +1,15 @@
+{
+    "name": "ibrahim13/storage",
+    "authors": [
+        {
+            "name": "Ibrahim I Musabah",
+            "email": "i.musabah92@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MHIbrahim\\Storage\\": "./src"
+        }
+    },
+    "require": {}
+}
